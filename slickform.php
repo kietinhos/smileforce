@@ -36,3 +36,4 @@ if(isset($_REQUEST["isvalid"])){
 	echo "failed";
 	
 }
+?>
